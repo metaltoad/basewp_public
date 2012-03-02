@@ -1,0 +1,4 @@
+This is a vanilla WordPress 3.3.1 install, set up for easy deployment.
+For more instruction, check out http://www.metaltoad.com/blog/tutorial-simplify-your-wordpress-deployments
+
+Be sure to modify everything in config/ before attempting deployments

@@ -1,0 +1,11 @@
+wordpress/wp-content/uploads
+wordpress/wp-content/w3tc
+wordpress/wp-content/avatars
+wordpress/wp-content/cache
+wordpress/local-config.php
+.buildpath
+.project
+.settings
+db
+*~
+.DS_Store
