@@ -9,3 +9,4 @@ wordpress/local-config.php
 db
 *~
 .DS_Store
+/.gitattributes
