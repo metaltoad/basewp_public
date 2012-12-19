@@ -1,4 +1,5 @@
-This is a vanilla WordPress 3.3.1 install, set up for easy deployment.
+This is a vanilla WordPress 3.5 install, set up for easy deployment using Capistrano, git, wp-cli and sed.
+
 For more instruction, check out http://www.metaltoad.com/blog/tutorial-simplify-your-wordpress-deployments
 
-Be sure to modify everything in config/ before attempting deployments
+IMPORTANT: Be sure to modify everything in config/ before attempting Capistrano deployments
